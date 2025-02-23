@@ -1,2 +1,3 @@
 const now = require('nano-time');
-{console.log(now())}
+
+console.log(now.micro())
