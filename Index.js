@@ -9,7 +9,7 @@ const cNumber = 3.5
 let number1 = 2
 let number2 = 0
 
-console.log("Init Numbers: ", cNumber, number1, number2)
+console.log("Init Numbers: ", cNumber, ", ", number1, ", ", number2)
 number2 = multiply(number1, cNumber)
 console.log("Final Result:", number2)
 
