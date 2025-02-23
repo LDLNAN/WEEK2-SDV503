@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/LDLNAN/WEEK2-SDV503/issues"
   },
-  "homepage": "https://github.com/LDLNAN/WEEK2-SDV503#readme"
+  "homepage": "https://github.com/LDLNAN/WEEK2-SDV503#readme",
+  "dependencies": {
+    "nano-time": "^1.0.0"
+  }
 }
